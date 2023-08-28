@@ -1217,6 +1217,10 @@ figcaption {
   display: flex;
 }
 
+.header-nav-link.modified:hover {
+  color: #aab1c6;
+}
+
 .header-nav-menu-wrapper {
   grid-column-gap: 40px;
   justify-content: space-between;
