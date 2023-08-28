@@ -2539,6 +2539,16 @@ figcaption {
   max-width: 445px;
 }
 
+.div-block-3.blah-copy {
+  max-width: 445px;
+  background-color: #def2e6;
+}
+
+.div-block-3.blah-copy-copy {
+  max-width: 445px;
+  background-color: #ffeff0;
+}
+
 .paragraph-5, .text-block-4 {
   color: #454e66;
 }
